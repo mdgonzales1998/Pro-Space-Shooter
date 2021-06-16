@@ -1,0 +1,2 @@
+il2cpp_cache/linkresult_D4E2BC37A1B06F2AD32B6D72D099E572/build.bc filter=lfs diff=lfs merge=lfs -text
+PlayerDataCache/Win64/Data/sharedassets1.assets.resS filter=lfs diff=lfs merge=lfs -text
